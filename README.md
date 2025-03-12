@@ -1,2 +1,2 @@
-# grafika
-### asadasdsadsadasdasdas
+# Grafika beadandó 
+### 
